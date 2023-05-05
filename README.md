@@ -6,8 +6,8 @@
   <li>📤 How to reach me: verane.nadal@sfr.fr </li> <br/>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-nadal&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-nadal&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-nadal&theme=github_dark&show_icons=true) &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-nadal&theme=github_dark&layout=compact"/>
 <!--
 **v-nadal/v-nadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
