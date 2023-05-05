@@ -5,6 +5,9 @@
   <li>🌱 I’m currently learning JavaScript, Java, React, SQL </li> </br>
   <li>📤 How to reach me: verane.nadal@sfr.fr </li> <br/>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-nadal&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-nadal&theme=github_dark&show_icons=true)
 <!--
 **v-nadal/v-nadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
