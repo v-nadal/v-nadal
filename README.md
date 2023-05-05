@@ -1,4 +1,4 @@
-# <p align="center"> 👋 Hello, my name is Vérane Nadal and I'm student at 42Angouleme </p>
+# <p align="center"> Hello 👋 <br>  My name is Vérane Nadal and I'm student at 42Angouleme </p>
 <br>
 <ul style="list-style-type: disc">
   <li>🛠 I’m currently working on ft_irc and ft_transcendance </li> </br>
