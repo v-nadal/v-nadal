@@ -2,7 +2,7 @@
 <br>
 <ul style="list-style-type: disc">
   <li>🛠 I’m currently working on ft_irc and ft_transcendance </li> </br>
-  <li>🌱 I’m currently learning JavaScript, Java, React, SQL </li> </br>
+  <li>🌱 I’m currently learning JavaScript, NodeJs and React </li> </br>
   <li>📤 How to reach me: verane.nadal@sfr.fr </li> <br/>
 </ul>
 
