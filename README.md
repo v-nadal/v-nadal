@@ -1,8 +1,8 @@
-# <p align="center"> Hello 👋 <br>  My name is Vérane Nadal and I'm student at 42Angouleme </p>
+# <p align="center"> Hello 👋 <br>  My name is Vérane Nadal and I'm student at 42 Angouleme </p>
 <br>
 <ul style="list-style-type: disc">
-  <li>🛠 I’m currently working on ft_irc and ft_transcendance </li> </br>
-  <li>🌱 I’m currently learning JavaScript, NodeJs and React </li> </br>
+  <li>🛠 I’m currently an intern at SCUB as a fullstack developper </li> </br>
+  <li>🌱 I’m currently learning JavaScript, Angular and Java </li> </br>
   <li>📤 How to reach me: verane.nadal@sfr.fr </li> <br/>
 </ul>
 
