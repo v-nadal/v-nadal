@@ -7,7 +7,7 @@
 </ul>
 
 # Language and tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,git,github,linux,ts,vim,vscode,docker&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,git,github,linux,ts,vim,vscode,docker,react,angular,java&perline=15)](https://skillicons.dev)
 
 
 # My stats
